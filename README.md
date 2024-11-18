@@ -1,7 +1,7 @@
 # CGPA-calculator
 ccalculate cgpa
 
-##things that i learnt in this proiject
+###things that i learnt in this proiject
 # CGPA Calculator 🎓
 
 A simple and efficient CGPA (Cumulative Grade Point Average) Calculator designed to help students calculate their grades and monitor academic progress.
